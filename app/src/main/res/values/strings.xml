@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">GoogleJam</string>
+    <string name="Ankle_Sprain_Text"> Swipe for Images \n\n\n
+        Ankle Sprain First Aid \n\n
+        1.Remove ankle bracelets or toe rings right away.\n
+    2.Rest the ankle. Use crutches if necessary.\n
+    3.Ice the ankle for 20 to 30 minutes several times a day for the first 2 days.\n
+    4.Compress by wrapping the ankle lightly,not tightly  with an Ace bandage or elastic ankle brace.\n
+    5.Elevate the ankle above heart level for the first 48 hours.\n
+    6.Take ibuprofen (Advil, Motrin), acetaminophen (Tylenol), or aspirin for pain. But check with your doctor first if you have any medical conditions or take any other medicines.\n
+    7.Make an appointment as soon as possible for any ankle sprain, mild or severe. Do not give aspirin to anyone younger than age 19 unless told to do so by a doctor.\n
+    </string>
+    <string name="Dizziness">Swipe for Images \n\n\n
+        Dizziness first aid \n\n
+        1.The person should sit down or lie still.\n
+        2.If the person gets light-headed when standing up, the person should stand up slowly.\n
+        3.Avoid sudden changes in position.\n
+        4.If the person is thirsty, have him or her drink fluids.\n
+        5.Avoid bright lights.\n
+        6.Call a health care professional if it doesn\'t go quickly.\n
+    </string>
+    <string name="HandFracture">Swipe for Images \n\n\n
+        Hand Fracture First Aid \n\n
+        1. Stop Bleeding if Necessary \n
+        2. Control Swelling -Apply an ice pack (do not put ice directly against the skin).\n
+        3. Immobilize the Hand -
+If the person\'s hand is numb or cold or the skin under the fingernails is blue, do not move the hand or arm.\n
+        4. See a health care professional immediately.\n
+    </string>
+    <string name="HeadInjury">Swipe for Images \n\n\n
+        Head Injury First Aid \n\n
+    1.To control bleeding, apply clean dressings directly to scalp or facial cuts.\n
+2.To control swelling, apply ice for 20 to 30 minutes every 2 to 4 hours.\n
+3.For headache, give over-the-counter acetaminophen. Do not use aspirin, ibuprofen, or other anti-inflammatory drugs, which can increase the risk of bleeding.\n
+        4. See the doctor immediately.\n
+    </string>
+    <string name="Convulsions">Swipe for Images \n\n\n
+        Convulsions First Aid \n\n
+    1.Stay calm.\n
+        2.Loosen anything around the person\'s neck. Do not restrain them or put anything in their mouth.\n
+        3.Clear the area around them, and stay with them after the seizure stops.\n
+4.Call 911 if the seizure lasts longer than 5 minutes, the person has another seizure, does not wake up, or has another medical condition.
+    </string>
+
+</resources>
